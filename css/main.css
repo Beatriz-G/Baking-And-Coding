@@ -137,12 +137,6 @@ body {
  text-align: center;
 }
 
-#content p span {
-  font-family: 'Lora', sans-serif;
-}
-
-
-
 .bottom {
     /* set the display to flex and use the justify-content & align-items properties to center all child elements on the page */
     margin: 0;
@@ -171,19 +165,6 @@ body {
     align-items: center;
    text-align: center;
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* ==========================================================================
    Helper classes
